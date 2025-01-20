@@ -89,4 +89,4 @@ Transform complex financial data into actionable insights through AI-powered ana
 
 ---
 
-*FinAnalytica AI - Transforming Financial Analysis with Intelligent Insights* 🚀
+*✨ FinGenie AI - Your Financial Wishes, Our AI Commands 🧞‍♂️*
