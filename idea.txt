@@ -130,5 +130,3 @@ Project Description:
     - Risk management support
     - Growth planning assistance
     - Resource optimization
-
-Would you like me to elaborate on any particular aspect or add additional features to this project description?
