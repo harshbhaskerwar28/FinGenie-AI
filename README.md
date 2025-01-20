@@ -1,6 +1,6 @@
 # 💫 FinGenie AI 🧞‍♂️
 
-> Your Intelligent Financial Analysis & Advisory System
+> Your Financial Wishes, Our AI Commands
 
 ## 🌟 Overview
 FinAnalytica AI revolutionizes financial analysis by combining the power of AI with traditional accounting practices to provide intelligent, context-aware financial insights and recommendations.
